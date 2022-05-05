@@ -1,9 +1,15 @@
-# Read Me First
-The following was discovered as part of building this project:
+# Bankline API
+<img src="https://github.com/k3n3dfelix/Bankline/blob/main/santander-dev-week-logo.png" />
 
-* The original package name 'com.dio.santander.bankline-api' is invalid and this project uses 'com.dio.santander.banklineapi' instead.
+## Tecnologias Utilizadas
+Java | Spring Boot | PostgreSQL | Heroku(Deploy)
 
-# Getting Started
+### Link para Acesso
+<a href="https://ken-bankline-api.herokuapp.com/swagger-ui/index.html" >Link de acesso a API</a>
+
+### Enpoints
+<img src="https://github.com/k3n3dfelix/bankline-api/blob/main/doc-api-swagger.PNG" />
+
 
 ### Reference Documentation
 For further reference, please consider the following sections:
