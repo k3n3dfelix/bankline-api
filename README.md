@@ -2,7 +2,7 @@
 <img src="https://github.com/k3n3dfelix/Bankline/blob/main/santander-dev-week-logo.png" />
 
 ## Tecnologias Utilizadas
-Java | Spring Boot | PostgreSQL | Heroku(Deploy)
+Java | Spring Boot | JPA/Hibernate | PostgreSQL | Heroku(Deploy)
 
 ### Link para Acesso
 <a href="https://ken-bankline-api.herokuapp.com/swagger-ui/index.html" >Link de acesso a API</a>
